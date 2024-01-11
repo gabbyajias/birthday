@@ -1,7 +1,7 @@
 // Sample data for events
 const events = [
     { image: "Screenshot 2024-01-11 145358.png", text: "Event 1 description" },
-    { image: "event2.jpg", text: "Event 2 description" },
+    { image: "b.b", text: "Event 2 description" },
     { image: "event3.jpg", text: "Event 3 description" },
     { image: "event4.jpg", text: "Event 4 description" },
     { image: "event5.jpg", text: "Event 5 description" }
