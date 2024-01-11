@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+#currentDay img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+#eventButtons {
+    margin-top: 20px;
+}
+
