@@ -1,5 +1,8 @@
 body {
-    background-color: #f8f9fa;
+    background-color: #b66969;
+    font-family: 'Racing Sans One', sans-serif;
+    color: white;
+    font-size: 23px;
 }
 
 .container {
@@ -16,3 +19,8 @@ body {
     margin-top: 20px;
 }
 
+.btn{
+    color: rgb(255, 255, 255);
+    background-color: rgb(114, 94, 122);
+    width:150px;
+}
